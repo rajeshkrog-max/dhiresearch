@@ -128,7 +128,7 @@ function App() {
             style={{ textDecoration: 'none', color: 'inherit' }}
           >
             <img
-              src="/src/assets/image1.png"
+              src="/image1.png"
               alt="Academic Stress in India"
               className="research-image"
             />
@@ -145,7 +145,7 @@ function App() {
             style={{ textDecoration: 'none', color: 'inherit' }}
           >
             <img
-              src="/src/assets/image2.png"
+              src="/image2.png"
               alt="What's Stressing Indian Students"
               className="research-image"
             />
@@ -162,7 +162,7 @@ function App() {
             style={{ textDecoration: 'none', color: 'inherit' }}
           >
             <img
-              src="/src/assets/image3.png"
+              src="/image3.png"
               alt="69.9% of Students Have High Anxiety"
               className="research-image"
             />
@@ -201,7 +201,7 @@ function App() {
           <div className="about-people">
             {/* Card 1 - PhD Counselor */}
             <div className="person-card">
-              <img src="/src/assets/PHD.png" alt="PhD Qualified Counselor" className="person-photo" />
+              <img src="/PHD.png" alt="PhD Qualified Counselor" className="person-photo" />
               <div className="person-info">
                 <strong>PhD-Qualified Counselor</strong>
                 <span>Research Guidance</span>
@@ -210,7 +210,7 @@ function App() {
 
             {/* Card 2 - ASCA */}
             <div className="person-card">
-              <img src="/src/assets/ascs.png" alt="ASCA Affiliated" className="person-photo" />
+              <img src="/ascs.png" alt="ASCA Affiliated" className="person-photo" />
               <div className="person-info">
                 <strong>ASCA Affiliated</strong>
                 <span>Professional Standards</span>
@@ -219,7 +219,7 @@ function App() {
 
             {/* Card 3 - Co Founder */}
             <div className="person-card">
-              <img src="/src/assets/cofounder.png" alt="Co Founder Shubham Raj" className="person-photo" />
+              <img src="/cofounder.png" alt="Co Founder Shubham Raj" className="person-photo" />
               <div className="person-info">
                 <strong>Shubham Raj</strong>
                 <span>Co Founder</span>
@@ -228,7 +228,7 @@ function App() {
 
             {/* Card 4 - Lead Counselor */}
             <div className="person-card">
-              <img src="/src/assets/HEAD.jpeg" alt="Lead Counselor Rajesh Das" className="person-photo" />
+              <img src="/HEAD.jpeg" alt="Lead Counselor Rajesh Das" className="person-photo" />
               <div className="person-info">
                 <strong>Rajesh Das</strong>
                 <span>Lead Counselor</span>
